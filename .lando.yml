@@ -1,0 +1,7 @@
+name: dawa.tr
+recipe: drupal10
+config:
+  webroot: .
+services:
+  myservice:
+    type: phpmyadmin
